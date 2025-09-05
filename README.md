@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo 🫡 
 
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning python
 - 🚀 A cada dia aprendendo mais
 <div>
   <a href= "https://github.com/GustavoAll-DEV"> 
